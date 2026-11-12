@@ -1,28 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Marden Martins — Systems Analysis and Development</title>
-  <desc id="desc">Dark navy technology banner with blue accents and geometric network motif.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Marden Martins — Developer Portfolio</title>
+  <desc id="desc">Dark graphite portfolio banner with neon lime and violet accents, abstract orbital paths and terminal-inspired details.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#111d32"/>
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#1C2028"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2563eb" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B7F36B"/>
+      <stop offset="100%" stop-color="#C5A3FF"/>
     </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <circle cx="1010" cy="60" r="220" fill="#2563eb" opacity=".08"/>
-  <circle cx="1030" cy="275" r="170" fill="#58a6ff" opacity=".06"/>
-  <path d="M0 250 C300 170 430 330 720 230 S1030 165 1200 215" fill="none" stroke="url(#line)" stroke-width="2"/>
-  <text x="72" y="126" fill="#8b949e" font-family="monospace" font-size="18" letter-spacing="5">PORTFOLIO • SOFTWARE DEVELOPMENT</text>
-  <text x="72" y="194" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">MARDEN MARTINS</text>
-  <text x="76" y="238" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="23">Systems Analysis &amp; Development</text>
-  <rect x="76" y="265" width="210" height="3" rx="2" fill="#58a6ff"/>
-  <g fill="none" stroke="#58a6ff" stroke-width="2" opacity=".8">
-    <path d="M970 105 l40 -30 40 30 v48 l-40 30 -40 -30z"/>
-    <path d="M1010 75 v108 M970 105 l80 48 M1050 105 l-80 48"/>
-    <circle cx="1010" cy="129" r="13" fill="#0d1117"/>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <circle cx="1000" cy="170" r="205" fill="#B7F36B" opacity=".055"/>
+  <circle cx="1000" cy="170" r="148" fill="none" stroke="#C5A3FF" stroke-opacity=".42" stroke-width="1.5"/>
+  <circle cx="1000" cy="170" r="108" fill="none" stroke="#B7F36B" stroke-opacity=".6" stroke-width="1.5" stroke-dasharray="5 10"/>
+  <path d="M825 265 C900 40 1090 40 1175 265" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+  <path d="M850 85 L1080 255 M900 45 L1145 220" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="1"/>
+  <g fill="#B7F36B">
+    <circle cx="1000" cy="22" r="5"/><circle cx="1148" cy="170" r="5"/><circle cx="852" cy="170" r="5"/>
+  </g>
+  <g transform="translate(78 70)">
+    <rect width="104" height="28" rx="14" fill="#B7F36B" fill-opacity=".13" stroke="#B7F36B" stroke-opacity=".55"/>
+    <text x="52" y="19" text-anchor="middle" fill="#B7F36B" font-family="monospace" font-size="12" letter-spacing="2">PORTFOLIO</text>
+  </g>
+  <text x="78" y="168" fill="#F1F2EC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">MARDEN MARTINS</text>
+  <text x="82" y="214" fill="#C5A3FF" font-family="Arial, Helvetica, sans-serif" font-size="23">Análise e Desenvolvimento de Sistemas</text>
+  <text x="82" y="260" fill="#A7ADB8" font-family="monospace" font-size="15" letter-spacing="2">BUILDING • LEARNING • ITERATING</text>
+  <path d="M82 285H355" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(82 305)" fill="#777F8C" font-family="monospace" font-size="10">
+    <text x="0" y="0">01 / SOFTWARE DEVELOPMENT</text>
+    <text x="245" y="0">02 / CONTINUOUS LEARNING</text>
   </g>
 </svg>
