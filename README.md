@@ -1,128 +1,98 @@
 <!-- Perfil profissional | Marden Martins -->
 
-<div align="center">
-
-<img src="assets/profile-banner.svg" alt="Marden Martins — Systems Analysis and Development" width="100%"/>
-
-<p>
-  <a href="#-português">🇧🇷 Português</a> ·
-  <a href="#-english">🇺🇸 English</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Marden%20Martins&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&color=0:0D1B2A,100:1B3A5C" width="100%" alt="Marden Martins"/>
 </p>
 
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Software Development"/>
-<img src="https://img.shields.io/badge/LEARNING-Continuous-3FB950?style=for-the-badge&labelColor=0D1117" alt="Continuous Learning"/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=3D9DF3&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web+%7C+Java+%7C+Banco+de+Dados;Construindo+projetos+e+evoluindo+em+tecnologia;Bras%C3%ADlia%2C+DF" alt="Texto animado"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/mardenmartins"><img src="https://img.shields.io/badge/GitHub-mardenmartins-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/mardenmartins?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Reposit%C3%B3rios-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/></a>
+</p>
 
 ---
 
-## 🇧🇷 Português
+### Sobre mim
 
-### Olá! Eu sou Marden Martins 👋
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e utilizo este espaço para compartilhar projetos acadêmicos, experiências práticas e minha evolução na área de tecnologia.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, interessado em desenvolvimento de software, aplicações Web, bancos de dados e qualidade de código.
-
-Uso este espaço para documentar minha evolução técnica, compartilhar projetos acadêmicos e desenvolver soluções que conectam tecnologia a problemas reais.
+Tenho interesse em desenvolvimento de software, aplicações Web, integração com bancos de dados e qualidade de código. Busco transformar os conhecimentos adquiridos nos estudos em soluções funcionais, organizadas e bem documentadas.
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
-- 💻 **Interesses:** Desenvolvimento Web, Java, bancos de dados e engenharia de software
-- 🧪 **Práticas:** lógica de programação, versionamento com Git e conceitos de TDD
-- 🚀 **Objetivo:** evoluir continuamente e construir aplicações úteis, seguras e bem documentadas
+- 💻 **Foco:** Desenvolvimento Web, Java e bancos de dados
+- 🧪 **Práticas:** Git, versionamento, lógica de programação e conceitos de TDD
+- 🚀 **Objetivo:** evoluir como desenvolvedor e construir aplicações úteis e seguras
 
-### ⭐ Projeto em destaque
+---
 
-<a href="https://github.com/mardenmartins/projeto.s.a.r.a">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mardenmartins&repo=projeto.s.a.r.a&theme=github_dark&hide_border=true" alt="S.A.R.A. — projeto em destaque"/>
-</a>
+### Tecnologias e ferramentas
 
-**S.A.R.A. — Sistema Automático de Reconhecimento de Autenticidade**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,postgres,git,github,vscode,supabase&theme=dark" width="90%" alt="Tecnologias e ferramentas"/>
+</p>
 
-MVP acadêmico que explora rastreabilidade e verificação de produtos por meio de identificadores individuais e QR Codes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web-1B3A5C?style=for-the-badge" alt="Desenvolvimento Web"/>
+  <img src="https://img.shields.io/badge/Backend-Java-1B3A5C?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Database-SQL-1B3A5C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[S.A.R.A.](https://github.com/mardenmartins/projeto.s.a.r.a)** | Sistema de rastreabilidade e verificação de produtos por QR Code, desenvolvido como MVP acadêmico | HTML, CSS, JavaScript, Supabase, PostgreSQL |
+| **[LPWI 2.25](https://github.com/mardenmartins/lpwi-2.25)** | Exercícios e atividades de Linguagem de Programação para Web I | HTML, CSS, JavaScript |
+| **[TDD Project](https://github.com/mardenmartins/tdd-project)** | Estudos e prática de desenvolvimento orientado a testes | TDD |
+
+#### ⭐ S.A.R.A. — Sistema Automático de Reconhecimento de Autenticidade
+
+Projeto acadêmico voltado à rastreabilidade e à consulta de informações de produtos. A proposta permite que fábricas cadastrem produtos e que consumidores consultem dados por meio de QR Codes.
 
 - Cadastro e identificação de produtos;
 - Consulta de informações por QR Code;
-- Registro de vendas e verificações;
+- Registros de vendas e verificações;
 - Integração com Supabase e PostgreSQL.
 
-[Conheça o projeto e sua documentação →](https://github.com/mardenmartins/projeto.s.a.r.a)
-
-### 🧰 Tecnologias e ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sql,git,github,vscode,supabase&theme=dark" alt="Tecnologias e ferramentas"/>
+<p align="center">
+  <a href="https://github.com/mardenmartins/projeto.s.a.r.a">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mardenmartins&repo=projeto.s.a.r.a&hide_border=true&title_color=3D9DF3&text_color=BFE0FF&bg_color=0D1B2A" alt="Projeto S.A.R.A."/>
+  </a>
 </p>
-
-### 📌 Outros projetos e estudos
-
-| Repositório | Descrição |
-|---|---|
-| [LPWI 2.25](https://github.com/mardenmartins/lpwi-2.25) | Exercícios de Linguagem de Programação para Web I |
-| [TDD Project](https://github.com/mardenmartins/tdd-project) | Estudos de desenvolvimento orientado a testes |
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mardenmartins&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenmartins&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=mardenmartins&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
-### 🤝 Vamos nos conectar
-
-<a href="https://github.com/mardenmartins">
-  <img src="https://img.shields.io/badge/GitHub-mardenmartins-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
 
 ---
 
-## 🇺🇸 English
+### Estatísticas
 
-### Hi! I'm Marden Martins 👋
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mardenmartins&show_icons=true&hide_border=true&count_private=true&title_color=3D9DF3&icon_color=3D9DF3&text_color=BFE0FF&bg_color=0D1B2A" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mardenmartins&layout=compact&hide_border=true&title_color=3D9DF3&text_color=BFE0FF&bg_color=0D1B2A" alt="Linguagens mais utilizadas"/>
+</p>
 
-I am a **Systems Analysis and Development** student interested in software development, Web applications, databases and software quality.
-
-I use this space to document my technical growth, share academic projects and build solutions that connect technology with real-world challenges.
-
-- 🎓 **Education:** Systems Analysis and Development
-- 💻 **Interests:** Web development, Java, databases and software engineering
-- 🧪 **Practices:** programming fundamentals, Git version control and TDD concepts
-- 🚀 **Goal:** keep learning and build useful, secure and well-documented applications
-
-### ⭐ Featured project
-
-**S.A.R.A. — Automatic Product Authenticity Recognition System**
-
-An academic MVP exploring product traceability and verification through individual identifiers and QR Codes.
-
-- Product registration and identification;
-- QR Code-based information lookup;
-- Sales and verification records;
-- Supabase and PostgreSQL integration.
-
-[Explore the project →](https://github.com/mardenmartins/projeto.s.a.r.a)
-
-### 🧰 Technologies and tools
-
-HTML · CSS · JavaScript · Java · Python · SQL · Git · GitHub · VS Code · Supabase
-
-### 📌 Selected repositories
-
-- [LPWI 2.25](https://github.com/mardenmartins/lpwi-2.25) — Web programming coursework and exercises.
-- [TDD Project](https://github.com/mardenmartins/tdd-project) — Test-Driven Development studies.
-
-### 📊 GitHub statistics
-
-The cards above display my public GitHub activity and most-used languages.
-
-### 🤝 Connect
-
-[GitHub profile](https://github.com/mardenmartins)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mardenmartins&hide_border=true&background=0D1B2A&ring=3D9DF3&fire=3D9DF3&currStreakLabel=BFE0FF&sideLabels=BFE0FF&currStreakNum=3D9DF3&sideNums=BFE0FF&dates=8CA3BD" alt="Sequência de contribuições"/>
+</p>
 
 ---
 
-<div align="center">
-  <sub>Aprendizado contínuo · Continuous learning</sub>
-</div>
+### Vamos nos conectar
+
+<p align="center">
+  <a href="https://github.com/mardenmartins"><img src="https://img.shields.io/badge/GitHub-Perfil-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/mardenmartins?tab=repositories"><img src="https://img.shields.io/badge/Meus-Projetos-1B3A5C?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
+</p>
+
+<p align="center">
+  <sub>Aprendizado contínuo · Desenvolvimento de software · Tecnologia</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0D1B2A,100:1B3A5C" width="100%" alt="Rodapé"/>
+</p>
